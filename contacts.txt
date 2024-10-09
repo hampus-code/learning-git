@@ -1,6 +1,4 @@
 
-It would be nice to know which restaurant these contacts are for, perhaps add a headline for the contact of each restaurant?
-
 Restaurant contacts:
 
 Name: McDonalds
