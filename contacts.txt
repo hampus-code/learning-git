@@ -1,0 +1,11 @@
+
+Restaurant contacts:
+
+Name: McDonalds
+Phone: 070 123 4567
+Email: McDonalds@test.com
+
+name: Korat
+Phone: 070 987 6543
+Email: Korat@test.se
+
