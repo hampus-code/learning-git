@@ -1,3 +1,13 @@
+
+It would be nice to know which restaurant these contacts are for, perhaps add a headline for the contact of each restaurant?
+
+Restaurant contacts:
+
+Name: McDonalds
 Phone: 070 123 4567
-Email: Restaurang@test.com
+Email: McDonalds@test.com
+
+name: Korat
+Phone: 070 987 6543
+Email: Korat@test.se
 
