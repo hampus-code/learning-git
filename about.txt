@@ -1,0 +1,3 @@
+Headline: About Us
+
+This is the about page for Restaurants
