@@ -7,10 +7,14 @@ Länk: contacts
 Länk till: About
 
 
-<<<<<<< HEAD
-contact:to the place, i belong :D
-=======
+
 About: Take me home...
->>>>>>> 7f7ea79 (Add about connection in home)
+
+
+contact:to the place, i belong :D
+
+
+
+country road ......
 
 
