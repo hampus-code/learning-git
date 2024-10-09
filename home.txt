@@ -1,7 +1,12 @@
 This is the home page for Restaurant project
 
+link!
+
 Länk: contacts
 
 Länk till: About
+
+
+
 
 
